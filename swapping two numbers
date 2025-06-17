@@ -1,0 +1,11 @@
+a=10
+b=61
+a=a+b
+b=a-b
+a=a-b
+print("a=",a)
+print("b=",b)
+
+output:
+a= 61
+b= 10
