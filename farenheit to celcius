@@ -1,0 +1,6 @@
+fahrenheit =17
+celsius = (5/9) * (fahrenheit - 32)
+print(f"{fahrenheit} Fahrenheit is equal to {celsius:.2f} Celsius")
+
+output:
+17 Fahrenheit is equal to -8.33 Celsius
