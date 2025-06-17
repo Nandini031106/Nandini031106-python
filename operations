@@ -1,0 +1,21 @@
+num1=15
+num2=17
+
+_and=num1&num2
+_or=num1|num2
+_xor=num1^num2
+left_shift=num1<<num2
+right_shift=num1>>num2
+
+print("result_1",_and)
+print("result_2",_or)
+print("result_3",_xor)
+print("result_4",left_shift)
+print("result_5",right_shift)
+
+output:
+result_1 1
+result_2 31
+result_3 30
+result_4 1966080
+result_5 0
